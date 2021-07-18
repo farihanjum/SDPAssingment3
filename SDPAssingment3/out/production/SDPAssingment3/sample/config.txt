@@ -1,0 +1,10 @@
+Button,I am Button,X:200,Y:0
+Button,I am button,X:400,Y:0
+EditBox,X:200,Y:350
+EditBox,I am textfield,X:50,Y:150
+EditBox,I am textfield,X:100,Y:250
+
+
+
+
+

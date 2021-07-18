@@ -1,0 +1,6 @@
+Button,X:200,Y:30,Font:20,Color:CYAN
+Button,I am a button,X:200,Y:90,Font:20,Color:CYAN
+EditBox,I am a textfield,X:200,Y:150,Font:30,Color:PINK
+EditBox,I am a textfield,X:400,Y:200,Font:30,Color:PINK
+
+
